@@ -1,0 +1,9 @@
+{
+	"name": "lmspracdatafactroy2026",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a30068e-c308-4584-a7b9-0432f6a26c14",
+		"tenantId": "47918733-bb26-49bf-9ae7-d34ffe2f81ab"
+	}
+}
